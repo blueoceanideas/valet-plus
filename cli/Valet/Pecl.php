@@ -56,14 +56,14 @@ class Pecl extends AbstractPecl
             '5.6' => '4.0.11',
             'extension_type' => self::NORMAL_EXTENSION_TYPE
         ],
-        self::GEOIP_EXTENSION => [
+        /*self::GEOIP_EXTENSION => [
             '7.4' => '1.1.1',
             '7.3' => '1.1.1',
             '7.2' => '1.1.1',
             '7.1' => '1.1.1',
             '7.0' => '1.1.1',
             'extension_type' => self::NORMAL_EXTENSION_TYPE
-        ],
+        ],*/
         self::MEMCACHE_EXTENSION => [
             '7.3' => '3.1.3',
             '7.2' => '3.1.3',
